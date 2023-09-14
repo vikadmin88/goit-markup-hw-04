@@ -494,10 +494,14 @@ address {
     background: var(--c-main);
 }
 
-.footer-inner {
+.footer .container {
     display: flex;
     align-items: baseline;
 }
+/* .footer-inner {
+    display: flex;
+    align-items: baseline;
+} */
 
 .footer-logo-wraper {
     margin-right: 120px;
